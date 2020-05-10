@@ -45,6 +45,12 @@ Arduiono duemilanove is since may 2009 based on same processing unit ATmega328P 
 Most of the "compatible" versions of Arduino UNO rev 3 uses CH340G chip instead of the ATMega8U2/ATM16U2.
 As mentioned on quora [[23]](https://www.quora.com/What-is-the-difference-between-Arduino-Uno-R3-compatible-board-ATmega328P-ATmega16U2-and-Arduino-Uno-R3-ATmega328P-USB-board-CH340G-Which-should-I-buy-and-why) it should not be a problem, as far as installing software from the chineese manufactuer site is ok for the user. Another anwers mentioned additional coplications using board with CH430G instead of ATM8U2/ATM16U2.
 
+**Sources**:  
+[[20]](https://arduino.stackexchange.com/questions/24081/is-atmega328p-the-same-as-16u2) Is ATMEGA328P the same as 16U2? at _Arduino Stack Exchange_  
+[[21]](https://www.arduino.cc/en/main/boards) Arduino Older Boards by _Arduino_  
+[[22]](https://www.arduino.cc/en/Main/ArduinoBoardDuemilanove) Arduino Duemilanove by _Arduino_  
+[[23]](https://www.quora.com/What-is-the-difference-between-Arduino-Uno-R3-compatible-board-ATmega328P-ATmega16U2-and-Arduino-Uno-R3-ATmega328P-USB-board-CH340G-Which-should-I-buy-and-why) What is the difference between Arduino Uno R3 compatible board ATmega328P ATmega16U2 and Arduino Uno R3 ATmega328P USB board CH340G? Which should I buy and why? at _Quora_
+
 ### 4. Approximate costs
 
 After choosing non-presurized drip irridation system, it is required to barinstorm about required items and price them, before deciding whether this project is feasible.
