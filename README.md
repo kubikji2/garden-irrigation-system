@@ -22,3 +22,17 @@ Pressurized version has been controlled using arduino board and selenoid valve b
 [[5]](https://www.youtube.com/watch?v=Bo2GFneYrfM) (Video) Easy DIY home drip irrigation system by _Adam Woodhams_  
 [[6]](https://www.youtube.com/watch?v=WF5TeIQyiHY) (Video) Jesse Explains Gravity Fed Drip Irrigation by _BlueBarrel Rainwater Catchment Systems_   
 [[7]](https://www.youtube.com/watch?v=O_Q1WKCtWiA) (Video) Arduino Garden Controller - Automatic Watering and Data Logging by _Practical Engineering_
+
+### 2. Do research about valve types and its usage
+
+Normally closed solenoid two-way valve seems to be way to go for first iteration as it remains closed until given current is applied.
+For advanced node-based approach three-way normally closed solenoid valve is preffered.
+Controlling a solenoid valve using arduino is described in [[14]](http://www.martyncurrey.com/controlling-a-solenoid-valve-from-an-arduino-updated/).
+
+**Sources**:  
+[[11]](https://www.linkedin.com/pulse/different-valve-types-applications-suitability-brian-g-thompson--1) Different Valve Types, Applications & Suitability by _Brian 🇦🇺 Thompson Valve Sage_  
+[[12]](https://en.wikipedia.org/wiki/Solenoid_valve) Selenoid Valve by _Wikipedia_  
+[[13]](https://www.doityourself.com/stry/5-different-types-of-solenoid-valves-explained) 5 Different Types of Solenoid Valves Explained by _Fiye Ward_  
+[[14]](http://www.martyncurrey.com/controlling-a-solenoid-valve-from-an-arduino-updated/) Controlling a Solenoid Valve from an Arduino. Updated by _Martyn Currey_
+ 
+
