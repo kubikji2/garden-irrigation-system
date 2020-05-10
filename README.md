@@ -49,6 +49,58 @@ As mentioned on quora [[23]](https://www.quora.com/What-is-the-difference-betwee
 
 After choosing non-presurized drip irridation system, it is required to barinstorm about required items and price them, before deciding whether this project is feasible.
 
+Following items requires price estimation:
+- Arduino board:
+   - Arduino UNO R3 MEGA328P + CH340G
+     - [AliExpress](https://www.aliexpress.com/item/32768431306.html) no cable 66.58+11.23 CZK at 26/06
+   - Arduiono UNO MEGA328P + ATmega16U2
+     - [AliExpress](https://www.aliexpress.com/item/32964588171.html) no cable 103.30+10.72 CZK at 26/06
+     - according to comments works perfectly with Arduino software
+   - Arduino NANO MEGA328P
+     - [AliExpress](https://www.aliexpress.com/item/32309876432.html) Nano V3.0 FT232 by **Yanwen Economy Air Mail** 96.93+16.07 CZK at 26/06
+     - [AliExpress](https://www.aliexpress.com/item/32309876432.html) Nano V3.0 CH340 by **Yanwen Economy Air Mail** 58.67+16.07 CZK at 26/06
+   - Arduino MICRO MEGA328P
+     - [AliExpress](https://www.aliexpress.com/item/4000160120491.html) **Pro Mini 328P-AU 5V** 48.21 CZK by **Yanwen Economy Air Mail**  at 26/06
+     - [AliExpress](https://www.aliexpress.com/item/4000160120491.html) **CP2102 Micro USB** 25.26 CZK at 26/06
+  - Nano terminal adapter
+     - [Ebay](https://www.ebay.com/itm/Nano-Terminal-Adapter-for-the-Arduino-Nano-V3-0-AVR-ATMEGA328P-AU-Module-Board/133302815395) 39.66 CZK   
+- Arduino Kits:
+  - Elego UNO Project The Most Complete Starter Kit
+     - [AliExpress](https://www.aliexpress.com/item/32638892215.html) 833.54 CZK at 21/06
+     - mentioned in article about starting kits [here](https://makeradvisor.com/best-arduino-starter-kits/)
+  - OR 
+    - [AliExpress](https://www.aliexpress.com/item/32620337494.html) **DIP UNO R3** 615.21 CZK at 13/06
+  - Sensor Kit  
+    - [AliExpress](https://www.aliexpress.com/item/32592140121.html) 344.34+29.59 CZK
+
+- Pipe-like components:
+   - thin hose 4/7 mm 
+      - [AliExpress](https://www.aliexpress.com/item/33052237739.html) 25m 237.21 CZK at 21/06
+   - thick hose 16 mm
+      - [AliExpress](https://www.aliexpress.com/item/4000618853699.html) 15m 343.57 CZK at 16/06
+      - [AliExpress](https://www.aliexpress.com/item/4000732232580.html) 15m 404.28 CZK at 16/06
+   - drip emmiter
+      - [AliExpress](https://www.aliexpress.com/item/32912594761.html) 100pcs 256.09 CZK at 21/06
+   - ziptie 3x200 (100pcs)
+      - [AliExpress](https://www.aliexpress.com/item/4000094753931) black 49.23 CZK at **17/07**
+   - ziptie 3x150 (100pcs)
+      - [AliExpress](https://www.aliexpress.com/item/4000983441033.html) 3x150 **Yawen Economic Air mail** 35.20 CZK at 26/06
+   - [PERSONAL] cable ties (50pcs)
+      - [AliExpress](https://www.aliexpress.com/item/4000843570179) 82.39 CZK
+   - [OPTIONAL] Hoop pipes (10pcs)
+      - [AliExpress](https://www.aliexpress.com/item/10000150195823.html) 10-16mm 43.11 CZK
+- Electronics valves:
+   - 12V DC 1/2" Plastic Solenoid Valve
+      - [AliExpress](https://www.aliexpress.com/item/33019875310.html) DC 12V **Yawen Economic Air mail** 81.88+5.36 CZK at 26/06
+- Arduino required sensoric equipments:
+   - Postponed    
+- Water container:
+   - IBC NÁDRŽ 1000L
+   - About 3000 CZK, with VATS and cage
+   - **Recommend ask uncle/cousin for seller**
+- Pumps: 
+   - Posponed
+
 | Item  | Prices | Links | Notes  |
 |-------|--------|-------|--------|
 | Valve |        |       |        |
