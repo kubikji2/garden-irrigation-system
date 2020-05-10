@@ -88,11 +88,11 @@ Following items requires price estimation:
    - drip emmiter
       - [AliExpress](https://www.aliexpress.com/item/32912594761.html) 100pcs 256.09 CZK at 21/06
    - ziptie 3x200 (100pcs)
-      - [AliExpress](https://www.aliexpress.com/item/4000094753931) black 49.23 CZK at **17/07**
+      - [AliExpress](https://www.aliexpress.com/item/4000094753931.html) black 49.23 CZK at **17/07**
    - ziptie 3x150 (100pcs)
       - [AliExpress](https://www.aliexpress.com/item/4000983441033.html) 3x150 **Yawen Economic Air mail** 35.20 CZK at 26/06
    - [PERSONAL] cable ties (50pcs)
-      - [AliExpress](https://www.aliexpress.com/item/4000843570179) 82.39 CZK
+      - [AliExpress](https://www.aliexpress.com/item/4000843570179.html) 82.39 CZK
    - [OPTIONAL] Hoop pipes (10pcs)
       - [AliExpress](https://www.aliexpress.com/item/10000150195823.html) 10-16mm 43.11 CZK
 - Electronics valves:
@@ -106,6 +106,7 @@ Following items requires price estimation:
    - **Recommend ask uncle/cousin for seller**
 - Pumps: 
    - Posponed
+
 
 | Item  | Prices | Links | Notes  |
 |-------|--------|-------|--------|
