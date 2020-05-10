@@ -36,3 +36,44 @@ Controlling a solenoid valve using arduino is described in [[14]](http://www.mar
 [[14]](http://www.martyncurrey.com/controlling-a-solenoid-valve-from-an-arduino-updated/) Controlling a Solenoid Valve from an Arduino. Updated by _Martyn Currey_
  
 
+### 3. Approximate costs
+
+After choosing non-presurized drip irridation system, it is required to barinstorm about required items and price them, before deciding whether this project is feasible.
+
+Following items requires price estimation:
+- Water container:
+   - IBC NÁDRŽ 1000L
+   - About 3000 CZK, with VATS and cage
+   - **Recommend ask uncle/cousin for seller**
+- Arduino board:
+   - Postponed, buy some kit
+- Arduino sensors:
+   - Postponed
+- Electronics valves:
+   - Postponed
+- Pipe-like components:
+   - thin hose 4/7 mm 
+      - [AliExpress](https://www.aliexpress.com/item/33052237739.html) 25m 237.21 CZK at 21/06
+   - thick hose 16 mm
+      - [AliExpress](https://www.aliexpress.com/item/4000618853699.html) 15m 343.57 CZK at 16/06
+      - [AliExpress](https://www.aliexpress.com/item/4000732232580.html) 15m 404.28 CZK at 16/06
+   - drip emmiter
+      - [AliExpress](https://www.aliexpress.com/item/32912594761.html) 100pcs 256.09 CZK at 21/06
+   - ziptie 3x200 (100pcs)
+      - [AliExpress](https://www.aliexpress.com/item/4000094753931) black 49.23 CZK at 17/07
+   - ziptie 3x150 (100pcs)
+      - [AliExpress](https://www.aliexpress.com/item/4000983441033.html) 3x150 Yawen Economic Air mail 35.20 CZK at 26/06
+   - cable ties (50pcs)
+      - [AliExpress](https://www.aliexpress.com/item/4000843570179) 82.39 CZK
+- Pumps: 
+   - Posponed
+
+
+
+
+| Item  | Prices | Links | Notes  |
+|-------|--------|-------|--------|
+| Valve |        |       |        |
+| Pump  |        |       |        |
+| Board |        |       |        |
+
